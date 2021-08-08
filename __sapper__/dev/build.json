@@ -1,0 +1,55 @@
+{
+  "bundler": "rollup",
+  "shimport": "2.0.4",
+  "assets": {
+    "main": "client.03a84ccb.js"
+  },
+  "css": {
+    "main": [
+      "client-8699fb64.css"
+    ]
+  },
+  "dependencies": {
+    "index.svelte": [
+      "index.77c5b600.js",
+      "modal.ea76dc33.js",
+      "inject_styles.5607aec6.js",
+      "modal-d7ea8f28.css",
+      "index-8f11c179.css"
+    ],
+    "create_admin.svelte": [
+      "create_admin.b0a28895.js",
+      "inject_styles.5607aec6.js",
+      "create_admin-7ad54917.css"
+    ],
+    "signin.svelte": [
+      "signin.053b0128.js",
+      "inject_styles.5607aec6.js",
+      "signin-4583f989.css"
+    ],
+    "upload.svelte": [
+      "upload.14844ffc.js",
+      "inject_styles.5607aec6.js",
+      "upload-5cecac9d.css"
+    ],
+    "panel/_layout.svelte": [
+      "_layout.ea677625.js",
+      "inject_styles.5607aec6.js",
+      "_layout-8f77c78f.css"
+    ],
+    "panel/index.svelte": [
+      "index.7add0cce.js",
+      "modal.ea76dc33.js",
+      "inject_styles.5607aec6.js",
+      "modal-d7ea8f28.css",
+      "index-cac997c4.css"
+    ],
+    "panel/tree.svelte": [
+      "tree.372ad155.js",
+      "modal.ea76dc33.js",
+      "inject_styles.5607aec6.js",
+      "modal-d7ea8f28.css",
+      "tree-c63fcf22.css"
+    ]
+  }
+}
